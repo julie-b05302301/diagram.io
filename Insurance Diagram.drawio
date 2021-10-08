@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T11:53:31.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="1JNfZEcJZdk9UPBwoszN" version="15.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-08T12:07:26.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="fKsk-UBIk8U_ut2SfNgC" version="15.4.3" type="github" pages="2">
   <diagram id="hlLD3kXGsrbP00aM4ERo" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,8 +196,8 @@
         <mxCell id="pSW87BW2eA4m_WXaB72F-10" value="如何盡快得知車禍發生：&lt;br&gt;免費服務熱線、意外調查小組、提供客戶大哥大、安全氣囊加裝警報器、與警方通訊系統連線等" style="whiteSpace=wrap;html=1;rounded=0;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
           <mxGeometry x="10" y="245" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pSW87BW2eA4m_WXaB72F-13" value="由修車廠處理可能會當冤大頭，但總體而言較划算" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
-          <mxGeometry x="720" y="124" width="100" height="80" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-13" value="由修車廠處理可能&lt;br&gt;會當冤大頭，但總體而言較划算" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
+          <mxGeometry x="720" y="124" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-14" target="pSW87BW2eA4m_WXaB72F-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -205,14 +205,22 @@
         <mxCell id="pSW87BW2eA4m_WXaB72F-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-14" target="pSW87BW2eA4m_WXaB72F-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pSW87BW2eA4m_WXaB72F-14" value="專案經理人：：主動代租中型車、&lt;br&gt;提供特約修車廠、關心傷者" style="whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
-          <mxGeometry x="430" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-14" value="專案經理人：&lt;br&gt;主動代租中型車、&lt;br&gt;提供特約修車廠、&lt;br&gt;關心傷者" style="whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
+          <mxGeometry x="430" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ISGhhmGrKSWFGquipJ2H-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-16" target="ISGhhmGrKSWFGquipJ2H-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-16" value="理賠金額估價" style="whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
-          <mxGeometry x="620" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pSW87BW2eA4m_WXaB72F-18" value="責任歸屬" style="whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
-          <mxGeometry x="430" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="ISGhhmGrKSWFGquipJ2H-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-18" target="ISGhhmGrKSWFGquipJ2H-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="392.5" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-18" value="責任歸屬(含醫院、現場等會談工作與調查)" style="whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
+          <mxGeometry x="490" y="400" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-21" value="修多少賠多少" style="whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
           <mxGeometry x="600" y="135" width="100" height="60" as="geometry" />
@@ -221,7 +229,22 @@
           <mxGeometry x="150" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zKsYKj2EsSfIasRJo5Zl-0" value="同時進行" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
-          <mxGeometry x="600" y="350" width="100" height="80" as="geometry" />
+          <mxGeometry x="570" y="330" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MePGsfZpcNVBLINDH_MC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="ISGhhmGrKSWFGquipJ2H-0" target="MePGsfZpcNVBLINDH_MC-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ext1UcwYpBup4h4Slccl-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="ISGhhmGrKSWFGquipJ2H-0" target="ext1UcwYpBup4h4Slccl-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ISGhhmGrKSWFGquipJ2H-0" value="雙方是否接受理賠方案" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="730" y="390" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MePGsfZpcNVBLINDH_MC-0" value="&lt;span&gt;是：理賠結案&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="930" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ext1UcwYpBup4h4Slccl-0" value="&lt;span&gt;否：打官司&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="750" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
