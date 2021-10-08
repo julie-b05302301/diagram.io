@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T12:24:09.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="_iaNy6aF6svo5nAOkMO3" version="15.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-08T12:27:53.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="OvIxCuBjJ52-jS54SC3m" version="15.4.3" type="github" pages="2">
   <diagram id="hlLD3kXGsrbP00aM4ERo" name="Page-1">
     <mxGraphModel dx="782" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="Qxa9OgLx-NU-CcYGgElr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-9" target="abTBdoKjZUfMt6VEYINm-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-9" value="是：確認責任歸屬(誰的保險公司要賠)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-9" value="是：確認責任歸屬&lt;br&gt;(誰的保險公司要賠)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="abTBdoKjZUfMt6VEYINm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-9" target="abTBdoKjZUfMt6VEYINm-19" edge="1">
@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="abTBdoKjZUfMt6VEYINm-27" value="決定是否理賠" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="400" width="80" height="80" as="geometry" />
+          <mxGeometry x="540" y="400" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="abTBdoKjZUfMt6VEYINm-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-31" target="abTBdoKjZUfMt6VEYINm-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="1060" y="525" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="abTBdoKjZUfMt6VEYINm-51" value="是：理賠結案" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="915" y="630" width="90" height="60" as="geometry" />
+          <mxGeometry x="915" y="620" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="abTBdoKjZUfMt6VEYINm-54" value="起訴" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1190" y="530" width="50" height="40" as="geometry" />
