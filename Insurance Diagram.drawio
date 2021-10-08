@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T06:04:36.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="gYjVAS7JHB4sAhTM8n2X" version="15.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-08T08:01:10.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="1qFwoDLBovpY8_GG6CZi" version="15.4.3" type="github" pages="2">
   <diagram id="hlLD3kXGsrbP00aM4ERo" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="_yWuBCv0ekEh6ZADHoCv-4" value="把通知輸入電腦" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_yWuBCv0ekEh6ZADHoCv-7" target="abTBdoKjZUfMt6VEYINm-1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_yWuBCv0ekEh6ZADHoCv-7" target="abTBdoKjZUfMt6VEYINm-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_yWuBCv0ekEh6ZADHoCv-7" value="主管指派處理索賠代表" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -31,113 +31,113 @@
         <mxCell id="_yWuBCv0ekEh6ZADHoCv-12" value="3天" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="520" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-1" target="abTBdoKjZUfMt6VEYINm-7">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-1" target="abTBdoKjZUfMt6VEYINm-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-1" target="abTBdoKjZUfMt6VEYINm-9">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-1" target="abTBdoKjZUfMt6VEYINm-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-1" value="確認意外發生時間&lt;br&gt;是否在保險效期內" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-1" value="確認意外發生時間&lt;br&gt;是否在保險效期內" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="362.5" y="160" width="155" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-7" value="否：不理賠" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-7" value="否：不理賠" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="165" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-9" value="是：確認責任歸屬(誰的保險公司要賠)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-9" value="是：確認責任歸屬(誰的保險公司要賠)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-9" target="abTBdoKjZUfMt6VEYINm-19">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-9" target="abTBdoKjZUfMt6VEYINm-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-9" target="abTBdoKjZUfMt6VEYINm-42">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="abTBdoKjZUfMt6VEYINm-9" target="abTBdoKjZUfMt6VEYINm-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-38" target="abTBdoKjZUfMt6VEYINm-15">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="abTBdoKjZUfMt6VEYINm-38" target="abTBdoKjZUfMt6VEYINm-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="760" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-38" target="abTBdoKjZUfMt6VEYINm-17">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="abTBdoKjZUfMt6VEYINm-38" target="abTBdoKjZUfMt6VEYINm-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="315" y="730" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-15" target="abTBdoKjZUfMt6VEYINm-31">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-15" target="abTBdoKjZUfMt6VEYINm-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-15" value="和醫師、傷者會面估醫療費" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-15" value="和醫師、傷者會面估醫療費" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="205" y="700" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-17" target="abTBdoKjZUfMt6VEYINm-31">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-17" target="abTBdoKjZUfMt6VEYINm-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-17" value="估修車費(可能跟修車廠？)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-17" value="估修車費(可能跟修車廠？)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="580" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-19" target="abTBdoKjZUfMt6VEYINm-27">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-19" target="abTBdoKjZUfMt6VEYINm-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-19" value="和投保人、其他索賠者、現場證人及警方晤談" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-19" value="和投保人、其他索賠者、現場證人及警方晤談" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="270" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-24" value="35天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-24" value="35天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="690" y="160" width="120" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-27" target="abTBdoKjZUfMt6VEYINm-36">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-27" target="abTBdoKjZUfMt6VEYINm-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-27" target="abTBdoKjZUfMt6VEYINm-38">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-27" target="abTBdoKjZUfMt6VEYINm-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-27" value="決定是否理賠" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-27" value="決定是否理賠" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="215" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-31" target="abTBdoKjZUfMt6VEYINm-48">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-31" target="abTBdoKjZUfMt6VEYINm-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-31" target="abTBdoKjZUfMt6VEYINm-48">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-31" target="abTBdoKjZUfMt6VEYINm-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-31" target="abTBdoKjZUfMt6VEYINm-51">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-31" target="abTBdoKjZUfMt6VEYINm-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-31" value="雙方是否接受&lt;br&gt;理賠價格" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-31" value="雙方是否接受&lt;br&gt;理賠價格" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-36" value="否：不理賠" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-36" value="否：不理賠" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="385" y="440" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-38" value="是：理賠金額估價" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-38" value="是：理賠金額估價" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="195" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-42" target="abTBdoKjZUfMt6VEYINm-27">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="abTBdoKjZUfMt6VEYINm-42" target="abTBdoKjZUfMt6VEYINm-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-42" value="&lt;span&gt;多次會勘意外現場&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-42" value="&lt;span&gt;多次會勘意外現場&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTBdoKjZUfMt6VEYINm-48" target="abTBdoKjZUfMt6VEYINm-54">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abTBdoKjZUfMt6VEYINm-48" target="abTBdoKjZUfMt6VEYINm-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-48" value="否：打官司" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-48" value="否：打官司" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="800" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-51" value="是：理賠結案" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-51" value="是：理賠結案" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="700" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-53" value="超過14天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-53" value="超過14天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="690" y="580" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-54" value="起訴" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-54" value="起訴" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTBdoKjZUfMt6VEYINm-56" value="5天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="abTBdoKjZUfMt6VEYINm-56" value="5天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="690" y="800" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
@@ -148,141 +148,49 @@
       <root>
         <mxCell id="z5HfkO6dcSTwD1_-M65B-0" />
         <mxCell id="z5HfkO6dcSTwD1_-M65B-1" parent="z5HfkO6dcSTwD1_-M65B-0" />
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-3" target="z5HfkO6dcSTwD1_-M65B-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z5HfkO6dcSTwD1_-M65B-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-3" value="索賠者打電話給經紀人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+        <mxCell id="z5HfkO6dcSTwD1_-M65B-3" value="索賠者打電話給經紀人" style="rounded=0;whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
           <mxGeometry x="40" y="40" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-5" target="z5HfkO6dcSTwD1_-M65B-7">
+        <mxCell id="pSW87BW2eA4m_WXaB72F-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-3" target="pSW87BW2eA4m_WXaB72F-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-5" value="經紀人通知保險公司" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="160" y="40" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-7" target="z5HfkO6dcSTwD1_-M65B-9">
+        <mxCell id="pSW87BW2eA4m_WXaB72F-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-3" target="pSW87BW2eA4m_WXaB72F-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-7" value="把通知輸入電腦" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="280" y="40" width="80" height="60" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-3" value="分大小案" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="160" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-9" target="z5HfkO6dcSTwD1_-M65B-13">
+        <mxCell id="pSW87BW2eA4m_WXaB72F-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-4" target="pSW87BW2eA4m_WXaB72F-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-9" value="主管指派處理索賠代表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="400" y="40" width="80" height="60" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-4" value="小案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-10" value="3天" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="520" y="30" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-13" target="z5HfkO6dcSTwD1_-M65B-14">
+        <mxCell id="pSW87BW2eA4m_WXaB72F-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-6" target="pSW87BW2eA4m_WXaB72F-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-13" target="z5HfkO6dcSTwD1_-M65B-15">
+        <mxCell id="pSW87BW2eA4m_WXaB72F-6" value="大案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="270" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-8" value="主動代租中型車、&lt;br&gt;提供特約修車廠" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="510" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-10" target="z5HfkO6dcSTwD1_-M65B-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-13" value="確認意外發生時間&lt;br&gt;是否在保險效期內" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="362.5" y="160" width="155" height="70" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-10" value="如何盡快得知車禍發生：免費服務熱線、意外調查小組、提供客戶大哥大、安全氣囊加裝警報器、與警方通訊系統連線等" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="40" y="150" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-14" value="否：不理賠" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="560" y="165" width="95" height="60" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-13" value="由修車廠處理可能會當冤大頭，但總體而言較划算" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="670" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-15" value="是：確認責任歸屬(誰的保險公司要賠)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-15" target="z5HfkO6dcSTwD1_-M65B-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="390" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-15" target="z5HfkO6dcSTwD1_-M65B-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="420" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-35" target="z5HfkO6dcSTwD1_-M65B-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="760" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-35" target="z5HfkO6dcSTwD1_-M65B-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="730" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-21" target="z5HfkO6dcSTwD1_-M65B-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-21" value="和醫師、傷者會面估醫療費" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="205" y="700" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-23" target="z5HfkO6dcSTwD1_-M65B-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-23" value="估修車費(可能跟修車廠？)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="400" y="580" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-25" target="z5HfkO6dcSTwD1_-M65B-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-25" value="和投保人、其他索賠者、現場證人及警方晤談" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="210" y="270" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-26" value="35天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="690" y="160" width="120" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-29" target="z5HfkO6dcSTwD1_-M65B-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-29" target="z5HfkO6dcSTwD1_-M65B-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-29" value="決定是否理賠" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="215" y="430" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-33" target="z5HfkO6dcSTwD1_-M65B-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-33" target="z5HfkO6dcSTwD1_-M65B-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-33" target="z5HfkO6dcSTwD1_-M65B-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-33" value="雙方是否接受&lt;br&gt;理賠價格" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="395" y="690" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-34" value="否：不理賠" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="385" y="440" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-35" value="是：理賠金額估價" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="195" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-37" target="z5HfkO6dcSTwD1_-M65B-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-37" value="&lt;span&gt;多次會勘意外現場&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-39" target="z5HfkO6dcSTwD1_-M65B-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-39" value="否：打官司" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="395" y="800" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-40" value="是：理賠結案" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="550" y="700" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-41" value="超過14天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="690" y="580" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-42" value="起訴" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="395" y="900" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z5HfkO6dcSTwD1_-M65B-43" value="5天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="690" y="800" width="120" height="160" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-14" value="專案經理人" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
