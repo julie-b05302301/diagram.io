@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T08:01:10.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="1qFwoDLBovpY8_GG6CZi" version="15.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-08T08:19:22.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="yygi7hjuuXwnwT7YUPtO" version="15.4.3" type="github" pages="2">
   <diagram id="hlLD3kXGsrbP00aM4ERo" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -150,47 +150,78 @@
         <mxCell id="z5HfkO6dcSTwD1_-M65B-1" parent="z5HfkO6dcSTwD1_-M65B-0" />
         <mxCell id="z5HfkO6dcSTwD1_-M65B-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" source="z5HfkO6dcSTwD1_-M65B-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="70" as="targetPoint" />
+            <mxPoint x="160" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z5HfkO6dcSTwD1_-M65B-3" value="索賠者打電話給經紀人" style="rounded=0;whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
-          <mxGeometry x="40" y="40" width="80" height="60" as="geometry" />
+          <mxGeometry x="40" y="135" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pSW87BW2eA4m_WXaB72F-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-3" target="pSW87BW2eA4m_WXaB72F-4">
+        <mxCell id="pSW87BW2eA4m_WXaB72F-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" target="pSW87BW2eA4m_WXaB72F-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="165" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" target="pSW87BW2eA4m_WXaB72F-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="205" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-3" target="pSW87BW2eA4m_WXaB72F-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pSW87BW2eA4m_WXaB72F-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-3" target="pSW87BW2eA4m_WXaB72F-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pSW87BW2eA4m_WXaB72F-3" value="分大小案" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="160" y="30" width="120" height="80" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-3" value="分大小案與&lt;br&gt;是否為假案" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="160" y="124" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-4" target="pSW87BW2eA4m_WXaB72F-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-4" value="小案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="135" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-6" target="pSW87BW2eA4m_WXaB72F-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-6" value="大案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="270" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pSW87BW2eA4m_WXaB72F-8" value="主動代租中型車、&lt;br&gt;提供特約修車廠" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="510" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-8" target="pSW87BW2eA4m_WXaB72F-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-8" value="由保險經紀人直接處理：主動代租中型車、&lt;br&gt;提供特約修車廠" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="430" y="127.5" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-10" target="z5HfkO6dcSTwD1_-M65B-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-10" value="如何盡快得知車禍發生：免費服務熱線、意外調查小組、提供客戶大哥大、安全氣囊加裝警報器、與警方通訊系統連線等" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="40" y="150" width="170" height="90" as="geometry" />
+          <mxGeometry x="20" y="245" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-13" value="由修車廠處理可能會當冤大頭，但總體而言較划算" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="670" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="124" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pSW87BW2eA4m_WXaB72F-14" value="專案經理人" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="pSW87BW2eA4m_WXaB72F-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-14" target="pSW87BW2eA4m_WXaB72F-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-14" target="pSW87BW2eA4m_WXaB72F-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-14" value="專案經理人：：主動代租中型車、&lt;br&gt;提供特約修車廠、關心傷者" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="430" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-16" value="理賠金額估價" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="620" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-18" value="責任歸屬" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="430" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-21" value="修多少賠多少" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="600" y="135" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pSW87BW2eA4m_WXaB72F-23" value="對修車廠：定期接受報價及修車品質查驗&lt;br&gt;對保險人：審核索賠次數" style="whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="150" y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKsYKj2EsSfIasRJo5Zl-0" value="同時進行" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
+          <mxGeometry x="600" y="350" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
