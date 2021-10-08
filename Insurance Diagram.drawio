@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T12:27:53.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="OvIxCuBjJ52-jS54SC3m" version="15.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-08T12:34:33.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="4ZFitKYLCcw-UTOGqhwq" version="15.4.3" type="github" pages="2">
   <diagram id="hlLD3kXGsrbP00aM4ERo" name="Page-1">
     <mxGraphModel dx="782" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="qdWAaei-kUnX_3tIWodI">
-    <mxGraphModel dx="782" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="z5HfkO6dcSTwD1_-M65B-0" />
         <mxCell id="z5HfkO6dcSTwD1_-M65B-1" parent="z5HfkO6dcSTwD1_-M65B-0" />
@@ -156,7 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z5HfkO6dcSTwD1_-M65B-3" value="索賠者打電話給經紀人" style="rounded=0;whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
-          <mxGeometry x="40" y="135" width="80" height="60" as="geometry" />
+          <mxGeometry x="10" y="135" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" target="pSW87BW2eA4m_WXaB72F-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -184,7 +184,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-6" value="大案" style="ellipse;whiteSpace=wrap;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
-          <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="175" y="260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z5HfkO6dcSTwD1_-M65B-1" source="pSW87BW2eA4m_WXaB72F-8" target="pSW87BW2eA4m_WXaB72F-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-10" value="如何盡快得知車禍發生：&lt;br&gt;免費服務熱線、意外調查小組、提供客戶大哥大、安全氣囊加裝警報器、與警方通訊系統連線等" style="whiteSpace=wrap;html=1;rounded=0;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
-          <mxGeometry x="10" y="245" width="180" height="90" as="geometry" />
+          <mxGeometry x="-40" y="240" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pSW87BW2eA4m_WXaB72F-13" value="由修車廠處理可能&lt;br&gt;會當冤大頭，但總體而言較划算" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="z5HfkO6dcSTwD1_-M65B-1" vertex="1">
           <mxGeometry x="720" y="124" width="120" height="80" as="geometry" />
