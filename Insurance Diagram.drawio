@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T12:07:26.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="fKsk-UBIk8U_ut2SfNgC" version="15.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-08T12:09:17.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="yTcJI6FIePpazcCjuase" version="15.4.3" type="github" pages="2">
   <diagram id="hlLD3kXGsrbP00aM4ERo" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,10 +241,10 @@
           <mxGeometry x="730" y="390" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MePGsfZpcNVBLINDH_MC-0" value="&lt;span&gt;是：理賠結案&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="930" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ext1UcwYpBup4h4Slccl-0" value="&lt;span&gt;否：打官司&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="z5HfkO6dcSTwD1_-M65B-1">
-          <mxGeometry x="750" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="500" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
