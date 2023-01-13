@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T08:03:32.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="-LYQzD05vw0mnAl1dmgk" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T08:04:57.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="knsH2d3-IXU8m5coRw-n" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
         <mxCell id="F8rGp5MFDNNluXmm4fas-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F8rGp5MFDNNluXmm4fas-65" target="F8rGp5MFDNNluXmm4fas-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F8rGp5MFDNNluXmm4fas-65" value="系統自動記錄&lt;br&gt;ID對照名單" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F8rGp5MFDNNluXmm4fas-65" value="系統自動記錄&lt;br&gt;ID對照名單&lt;br&gt;(即跨渠道互動名單)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1170" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F8rGp5MFDNNluXmm4fas-68" value="是否綁定成功" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
